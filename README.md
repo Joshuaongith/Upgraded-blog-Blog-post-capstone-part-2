@@ -78,8 +78,8 @@ Follow these steps to run the application locally.
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/Joshuaongith/your-repo-name.git](https://github.com/Joshuaongith/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/Joshuaongith/Upgraded-blog-Blog-post-capstone.git
+cd Upgraded-blog-Blog-post-capstone
 
 ```
 
